@@ -9,10 +9,15 @@ Here I have accumulated helpful Data Science resources for begineers to intermed
 - 😄 Pronouns: She
 - ⚡ Fun fact: 😄 I am fun!
 
-connect with me on Linkedin
+Connect with me on Linkedin
 - <a href="https://www.linkedin.com/in/odeyomi-temitope/">
   <img align="left" alt="Temitope's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
 <br />
+<div><p>My profile overview: </p></div>
+
+![Temitope's github stats](https://github-readme-stats.vercel.app/api?username=Temistar&show_icons=true)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Temistar.Temistar)
