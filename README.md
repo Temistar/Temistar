@@ -8,3 +8,11 @@ Here I have accumulated helpful Data Science resources for begineers to intermed
 - 📫 How to reach me: odeyomitemitope@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: 😄 I am fun!
+
+connect with me on Linkedin
+- <a href="https://www.linkedin.com/in/odeyomi-temitope/">
+  <img align="left" alt="Temitope's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
+<br />
