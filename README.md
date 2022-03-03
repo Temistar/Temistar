@@ -19,6 +19,7 @@ Connect with me on Linkedin
 <br />
 <div><p>My profile overview: </p></div>
 
-![Temitope's github stats](https://github-readme-stats.vercel.app/api?username=Temistar&show_icons=true)
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Temistar.Temistar)
+<details close>
+<summary>:zap: GitHub Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Temistar&show_icons=true&theme=nord" width="400px">
+</details>
