@@ -13,7 +13,8 @@ Connect with me on Linkedin
 - <a href="https://www.linkedin.com/in/odeyomi-temitope/">
   <img align="left" alt="Temitope's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+![GitHub Follow](https://img.shields.io/github/followers/Temistar.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/Temistar?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 <br />
 <br />
 <div><p>My profile overview: </p></div>
