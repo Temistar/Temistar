@@ -15,6 +15,7 @@ Connect with me on Linkedin
 </a>
 
 📫 How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/odeyomi-temitope)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.odeyomitemitope@gmail.com)
 
