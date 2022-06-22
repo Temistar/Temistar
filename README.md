@@ -1,5 +1,7 @@
 ### Hi there 👋
-Here I have accumulated helpful Data Science resources for begineers to intermediate level based on my past projects and teachings. Some of the Books, Codes, projects and curriculum are for my students at STEM Zone and Hash.Code.Design.
+Here are my personal project relating to my PhD Research and ML Journey
+
+Here I have also accumulated helpful Data Science resources for begineers to intermediate level based on my past projects and teachings. Some of the Books, Codes, projects and curriculum are for my students at STEM Zone and Hash.Code.Design.
 
 - 🔭 I’m currently working on building a predictive text system for a Social commerce startup
 - 🌱 I’m currently learning more on probabilistic programming 
