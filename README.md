@@ -1,14 +1,14 @@
 ### Hi there 👋
-Here are my personal project relating to my PhD Research and ML Journey
+Here are my personal project relating to my PhD Research in Quantum and ML Journey
 
-Here I have also accumulated helpful Data Science resources for begineers to intermediate level based on my past projects and teachings. Some of the Books, Codes, projects and curriculum are for my students at STEM Zone and Hash.Code.Design.
+I have also accumulated helpful Quantum and Data Science resources for beginners to intermediate levels based on my past projects and teachings. Some of the Books, Codes, projects and curriculum are for my students at Cleveland State University, STEM Zone and Hash.Code.Design.
 
-- 🔭 I’m currently working on building a predictive text system for a Social commerce startup
-- 🌱 I’m currently learning more on probabilistic programming 
-- 👯 I’m looking to collaborate on any cool and fun ML/Data Science 
+- 🔭 I’m currently working on designing Optimal Quantum Sensor Circuits
+- 🌱 I’m currently learning more about probabilistic programming 
+- 👯 Would love to collaborate on any cool and fun Quantum/ML projects 
 - 💬 Ask me about STEM learning path for kids!
 - 😄 Pronouns: She
-- ⚡ Fun fact: 😄 I am fun!
+- ⚡ Fun fact: 😄 I started ML with Java before learning python!
 
 📫 How to reach me
 
