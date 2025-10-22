@@ -1,7 +1,7 @@
-### Hi there 👋
+ ### Hi there 👋
 Here are my personal project relating to my PhD Research in Quantum and ML Journey
 
-I have also accumulated helpful Quantum, ML and Data Science resources for beginners to intermediate levels based on my past projects and teachings. Some of the Books, Codes, projects and curriculum are for my students at Cleveland State University, STEM Zone and Hash.Code.Design.
+I have also accumulated helpful Quantum, ML and Data Science resources for beginners to intermediate levels based on my past projects and teachings. Some of the Books, Codes, projects and curriculum are for my students at Cleveland State University, Africa Quantum Consortium, STEM Zone and Hash.Code.Design.
 
 - 🔭 I’m currently working on designing Optimal Quantum Sensor Circuits
 - 🌱 I’m currently learning more about probabilistic programming 
