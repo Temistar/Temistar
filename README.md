@@ -8,7 +8,6 @@ I have also accumulated helpful Quantum, ML and Data Science resources for begin
 - 🌱 I’m currently learning more about probabilistic programming and scalable data modeling for uncertainty-aware AI.
 - 👯 I’d love to collaborate on quantum computing, machine learning, and big data–driven research projects that explore the intersection of AI automation and quantum intelligence. 
 - 💬 Ask me about STEM learning path for kids!
-- 😄 Pronouns: She
 - ⚡ Fun fact: 😄 I started ML with Java before learning python!
 
 📫 How to reach me
