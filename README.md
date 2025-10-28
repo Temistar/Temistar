@@ -22,6 +22,4 @@ I have also accumulated helpful Quantum, ML and Data Science resources for begin
 <div><p>My profile overview: </p></div>
 
 <details close>
-<summary>:zap: GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Temistar&show_icons=true&theme=nord" width="400px">
-</details>
+
